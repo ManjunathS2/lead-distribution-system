@@ -2,7 +2,9 @@
 
 A full-stack **Customer Relationship Management (CRM)** application designed to automate sales operations. It solves the problem of manual lead assignment by using a **Round Robin Algorithm** to fairly distribute incoming leads (from CSV uploads) to sales agents instantly.
 
----
+## 🎥 Video Demonstration
+Here is the working demo of the application:
+[Watch Video on Google Drive](https://drive.google.com/file/d/1N650-Z9QHhQZfUZofwiu0RQPdrbRJQcP/view?usp=sharing)
 
 ## 🌟 Key Features
 
